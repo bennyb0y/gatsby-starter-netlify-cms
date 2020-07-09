@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: I am really learning how to use this netlify!
+title: I am really learning how to use this netlify
 image: /img/home-jumbotron.jpg
 heading: this is the CMS demo
 subheading: CMS demo
